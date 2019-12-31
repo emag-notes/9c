@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 #add_executable(9c chap01/main.c)
 #add_executable(9c chap03/main.c)
-add_executable(9c chap05/main.c)
+#add_executable(9c chap05/main.c)
+add_executable(9c chap06/main.c)
